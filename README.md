@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Narasimha Yadav
 
-<!--
-**narasimhayadav7/narasimhayadav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java developer and deep learning enthusiast, exploring how software and AI can solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java, Python
+- Data Structures & Algorithms
+- Deep Learning & Object Detection
+- HTML, CSS, JavaScript (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+- **Object Detection – Identify Specific Individuals**  
+  Trained a custom deep learning model for face detection and built a simple Java front-end for image upload and result display.
+
+## 🌱 Currently Learning
+- Spring Boot
+- REST APIs
+
+## 📫 Let's Connect
+- 📧 Email: nanimekala987@gmail.com
+  
+
+
+---
+Feel free to explore my repositories and projects!
