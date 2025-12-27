@@ -18,7 +18,7 @@ Designed an interactive Power BI dashboard to analyze sales trends, outlet perfo
 - REST APIs
 
 ## 📫 Let's Connect
-- 📧 Email: nanimekala987@gmail.com
+- 📧 Email: mekalanarasimha64@gmail.com
   
 
 
