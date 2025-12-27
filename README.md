@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Narasimha Yadav
 
-I'm a passionate Java developer and deep learning enthusiast, exploring how software and AI can solve real-world problems.
+Aspiring software professional with hands-on experience in Java, Power BI, and data analysis, interested in building practical solutions using software and data-driven insights.
 
 ## 🚀 Skills
 - Java, Python
