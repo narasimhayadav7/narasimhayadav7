@@ -5,12 +5,13 @@ I'm a passionate Java developer and deep learning enthusiast, exploring how soft
 ## 🚀 Skills
 - Java, Python
 - Data Structures & Algorithms
-- Deep Learning & Object Detection
+- PowerBi,SQL,Ecxel
+- Machine Learning
 - HTML, CSS, JavaScript (Basic)
 
 ## 🔭 Projects
-- **Object Detection – Identify Specific Individuals**  
-  Trained a custom deep learning model for face detection and built a simple Java front-end for image upload and result display.
+- Blinkit Sales Analysis – Power BI
+Designed an interactive Power BI dashboard to analyze sales trends, outlet performance, and product categories using real-world grocery data
 
 ## 🌱 Currently Learning
 - Spring Boot
