@@ -7,7 +7,7 @@ Aspiring software professional with hands-on experience in Java, Power BI, and d
 - Data Structures & Algorithms
 - PowerBi,SQL,Ecxel
 - Machine Learning
-- HTML, CSS, JavaScript (Basic)
+- HTML, CSS
 
 ## 🔭 Projects
 - Blinkit Sales Analysis – Power BI
